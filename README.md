@@ -1,2 +1,2 @@
-# ATP-3_NodeJS
-Academic NodeJS Project
+# ATP-3_Laravel
+Academic Laravel Project
